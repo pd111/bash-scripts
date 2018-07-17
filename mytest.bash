@@ -11,3 +11,5 @@ Echo "List of countries of origin:" >> summary.txt
 cat cars.csv | cut -d ";" -f9 | sort -u >> summary.txt
 
 #a comment line
+
+#This is a test
